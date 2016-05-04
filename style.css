@@ -1,12 +1,12 @@
 .input, .output{
-		outline:none;
-		font-size:18px;
-		border:1px solid #D6D6D6;
-		margin: 0;
-		min-height: 100px;
-	}
-	.container {
-		-webkit-columns: 100px 2; /* Chrome, Safari, Opera */
-		-moz-columns: 100px 2; /* Firefox */
-		columns: 100px 2;
-	}
+	outline:none;
+	font-size:18px;
+	border:1px solid #D6D6D6;
+	margin: 0;
+	min-height: 100px;
+}
+.container {
+	-webkit-columns: 100px 2; /* Chrome, Safari, Opera */
+	-moz-columns: 100px 2; /* Firefox */
+	columns: 100px 2;
+}
